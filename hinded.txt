@@ -1,0 +1,5 @@
+Õppeaine nimi,hinne,eap
+Programmeerimine javas,a,5
+Loogika,c,6
+Ettevõtlus,a,1
+Filosoofia,a,3
